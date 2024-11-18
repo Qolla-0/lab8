@@ -5,6 +5,8 @@ public class Main {
         System.out.println("Version 2");
 
         calculations();
+
+        System.out.println("Hello from the collaborator!");
     }
 
     public static void calculations() {
